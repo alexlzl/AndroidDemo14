@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BottomBar2.0/BottomBar2.0.iml" filepath="$PROJECT_DIR$/BottomBar2.0/BottomBar2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo5.iml" filepath="$PROJECT_DIR$/Demo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scheme/Scheme.iml" filepath="$PROJECT_DIR$/Scheme/Scheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebView/WebView.iml" filepath="$PROJECT_DIR$/WebView/WebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebViewJS交互/WebViewJS交互.iml" filepath="$PROJECT_DIR$/WebViewJS交互/WebViewJS交互.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appframework/appframework.iml" filepath="$PROJECT_DIR$/appframework/appframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera_lib/camera_lib.iml" filepath="$PROJECT_DIR$/camera_lib/camera_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weexplugin/weexplugin.iml" filepath="$PROJECT_DIR$/weexplugin/weexplugin.iml" />
+    </modules>
+  </component>
+</project>

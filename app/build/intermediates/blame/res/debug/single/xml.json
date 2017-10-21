@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\app\\build\\intermediates\\exploded-aar\\Demo5\\weexplugin\\unspecified\\res\\xml\\config.xml"
+    }
+]

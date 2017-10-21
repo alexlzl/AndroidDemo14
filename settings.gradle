@@ -1,0 +1,6 @@
+include ':WebView', ':WebViewJS交互', 'BottomBar2.0', 'Scheme'
+// GENERATED FILE - DO NOT EDIT
+include ":app", 'camera_lib'
+include ":weexplugin"
+include ":appframework"
+//include "BottomBar2.0","ViewPath","ViewImageText","ViewCanvas","ViewAnimation","ThemeChange","SeamlessChangeTheme","PathMeasure","MakeTable","ItemDragDemo","Hack26_SectionListView","Hack10_CustomizeText","Hack7_CanvasAnime","Hack3_ViewGroup","Drawing","DownloadManager","DiyViewPager","CoordinatorDemo"

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_6cc53920b461727f784790c99d7c8e0d896dbf11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_3ef780144231f9c84c3f550e511596eb067c0987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\android-sdk_r24.4.1-windows\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_99b4232c55ca7d2fcaed506c0620b4c6f459f68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_be890732d0b4a4720cfbdadadafb18e2ddad982d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_0c1df7554b2c4e5a16bdae2315619f2f9f0ebfbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_7c358d7722130dc20c5343bf692a7961966eef33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_db3507aad5a0f82e03b31230fdd1fb7ac0210460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ac9edaf7d024bb9051333dab97869c1dadd46bc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_7398dee63cf0676a28a7c0934a99e1af6b09eb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_ee5e178e2ff6768e616954cdd9363836b220fc92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_bae354c3bc1a599e8fb970271049538af89b29b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\liuzhouliang.DS\Desktop\Project\Demo5\WebViewJS交互\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_daed82483ee9a7ed62f9c3e1a274c597c47fc380.jar" />
+    </item>
+
+</items>

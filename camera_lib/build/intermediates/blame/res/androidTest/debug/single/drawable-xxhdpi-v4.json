@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_default_error.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_default_error.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_asv.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_asv.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_text_indicator.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_text_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_default_check.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_default_check.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_asy.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_asy.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_btn_unselected.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_btn_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\mis_btn_selected.png",
+        "source": "C:\\Users\\liuzhouliang.DS\\Desktop\\Project\\Demo5\\camera_lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\mis_btn_selected.png"
+    }
+]

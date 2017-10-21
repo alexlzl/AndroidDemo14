@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="camera-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/weexplugin/build/intermediates/exploded-aar/com.nat/camera/1.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/weexplugin/build/intermediates/exploded-aar/com.nat/camera/1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nat/camera/1.0.3/83c6ca14937a2b790a7a875e07e58874ebd45037/camera-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
